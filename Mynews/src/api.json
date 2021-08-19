@@ -1,0 +1,81 @@
+"status": "ok",
+"totalResults": 1224,
+"articles": [
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Jon Fingas",
+        "title": "Apple Watch Series 6 Product Red drops to $300 at Woot",
+        "description": "Now is a prime opportunity to get an Apple Watch Series 6 at a good price, provided you're not picky about the color. Woot is offering the 40mm Product Red edition with GPS (that is, no cellular) for just $300, or a clean $100 below the usual price. This isn'…",
+        "url": "https://www.engadget.com/apple-watch-series-6-red-woot-deal-170438885.html",
+        "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/c55fd260-ec8c-11eb-b7af-fcf1d94f9d2c",
+        "publishedAt": "2021-08-07T17:04:38Z",
+        "content": "Now is a prime opportunity to get an Apple Watch Series 6 at a good price, provided you're not picky about the color. Woot is offering the 40mm Product Red edition with GPS (that is, no cellular) for… [+1379 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Kim Lyons",
+        "title": "Google reportedly planning a new Silicon Valley campus with a hardware center",
+        "description": "Planning documents show Google is working on another campus in Silicon Valley which will include a new center for its hardware products, as well as a research and development center.",
+        "url": "https://www.theverge.com/2021/8/7/22614501/google-new-silicon-valley-campus-hardware-nest-pixel",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/x5bPoUvbJhKWBIxX7LV2j_Bpi_8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19287010/acastro_191014_1777_google_pixel_0005.0.jpg",
+        "publishedAt": "2021-08-07T21:22:28Z",
+        "content": "Google has indicated it plans to put more focus on its hardware products\r\nIllustration by Alex Castro / The Verge\r\nGoogle plans another campus in Silicon Valley which will include a new center for so… [+1194 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Florence Ion",
+        "title": "Even Google Thinks Sideloading Apps on Android Is a Horrible Experience",
+        "description": "So much is revealed when court documents are officially unsealed, and in the case of Epic Games’ antitrust complaint against Google, we now know that Google considered buying the Fortnite maker outright “squelch this threat.” Google also apparently attempted …",
+        "url": "https://gizmodo.com/even-google-thinks-sideloading-apps-on-android-is-a-hor-1847440852",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/758dc26428a5058a39fb5e70c66b6d73.jpg",
+        "publishedAt": "2021-08-07T00:00:00Z",
+        "content": "So much is revealed when court documents are officially unsealed, and in the case of Epic Games antitrust complaint against Google, we now know that Google considered buying the Fortnite maker outrig… [+2921 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Apple criticised for system that detects child abuse",
+        "description": "There are privacy concerns that the system will be expanded to scan phones for political speech.",
+        "url": "https://www.bbc.co.uk/news/technology-58124495",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33F6/production/_119820331_c04c0588-a2c0-4530-93d6-7380afb5b022.jpg",
+        "publishedAt": "2021-08-07T01:09:09Z",
+        "content": "image captionApple announced the new technology on Thursday\r\nApple is facing criticism over a new system that finds child sexual abuse material (CSAM) on US users' devices. \r\nThe technology will sear… [+3476 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "Nicholas Sutrich",
+        "title": "It doesn't take a sleuth to see how Sherlocking hurts indie developers",
+        "description": "When the little guy gets taken advantage of, who is supposed to step in and help?\n\n\n\nHave you ever had an idea so good you had to stop everything you were doing just to work on it? That's the boat Cix Liv found himself in a few years back when he realized VR …",
+        "url": "https://www.androidcentral.com/sherlocking-what-happens-when-big-tech-steals-your-ideas",
+        "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/08/sherlocked-hero.jpg",
+        "publishedAt": "2021-08-07T13:00:02Z",
+        "content": "Source: Nick Sutrich / Android Central\r\nHave you ever had an idea so good you had to stop everything you were doing just to work on it? That's the boat Cix Liv found himself in a few years back when … [+17830 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Android Central"
+        },
+        "author": "Kevin Lynch",
+        "title": "How to watch Man City vs Leicester City: Live stream the Community Shield o",
+        "description": "English domestic football marks its return from its summer break with it's annual curtain-raiser at Wembley Stadium on Saturday, with Premier League winners Manchester City taking on FA Cup winners Leicester CIty.\n\nRead on to find out how to get a Community S…",
+        "url": "https://www.androidcentral.com/man-city-vs-leicester-city-live-stream-how-watch-community-shield-online-anywhere",
+        "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/08/community-shield-2021-hero.jpg",
+        "publishedAt": "2021-08-07T05:00:02Z",
+        "content": "English domestic football marks its return from its summer break with it's annual curtain-raiser at Wembley Stadium on Saturday, with Premier League winners Manchester City taking on FA Cup winners L… [+3338 chars]"
+    },
